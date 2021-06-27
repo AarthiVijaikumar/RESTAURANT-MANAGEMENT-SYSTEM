@@ -1,2 +1,3 @@
 # RESTAURANT-MANAGEMENT-SYSTEM
 MAJOR PROJECT:
+This is PHP Project entitled with "Restaurant Management System", which has been developed in PHP script, jQuery and Bootstrap 4 library. The main objective of this system is to overcome the problem of current management of table booking and order or billing manual system of the Restaurant, and convert that system into simple and full proofed process by this PHP Restaurant Management System.The Restaurant management system helps the manager to manage the restaurant more effectively and efficiently by computerizing meal ordering, billing, product, category, Table and tax from these data which help manager to make appropriate Business decisions for the restaurant.
